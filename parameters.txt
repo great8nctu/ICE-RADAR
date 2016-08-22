@@ -1,0 +1,12 @@
+logic_aging_worst 1.15
+logic_aging_best 1.05
+clock_margin 1.075
+clock_aging 1.122
+tcq_aging 1.2
+razor_delay 0.1
+razor_penalty 0
+razor_limit 52 
+input_mode 0 
+experiment 2
+time_borrowing 1
+sample_boundary 0.1
